@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AproximacionE{
+public class Serie1{
     public static void main (String args []){
 
         double x=0.0;
